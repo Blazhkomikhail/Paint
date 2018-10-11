@@ -1,0 +1,7 @@
+#canvas {
+    border: 1px solid #000;
+    width: 400px;
+    height: 200px;
+    background: url('http://w3.org.ua/images/js/setka.png');
+    cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII="), auto;
+}
